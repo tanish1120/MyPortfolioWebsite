@@ -20,14 +20,6 @@
   <li>CSS</li>
 </ul>
 
-<h2>Usage</h2>
-
-<p>Feel free to use my portfolio website as a reference for creating your own personal portfolio or customize it to suit your needs. You can modify the code, replace my projects and information with your own, and style it according to your preferences. Don't forget to include your contact information and social media handles to facilitate networking and opportunities.</p>
-
-<h2>Contributing</h2>
-
-<p>Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request.</p>
-
 <h2>Contact</h2>
 
 <p>If you have any questions or would like to get in touch, you can reach me at:</p>
